@@ -25,16 +25,8 @@ The latest Emoerce website
 * Html
 * Css
 * Javascript
-* bootstrap
-* font-awesome
-* react-bootstrap
 * react-icons
-* react-router-dom
 * react-scripts
-* react-scroll
-* react-social-icons
-* react-spring
-* reactstrap
 * react hooks
 
 
