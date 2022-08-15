@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
 <kbd>
-<img src="./kai.png">
+<img src="./Eshop.png">
 </kbd>
 </div>
 
@@ -22,12 +22,14 @@ The latest Emoerce website
 ## Technologies
 
 ### Tools 
-* Html
-* Css
+* HTML
+* CSS
 * Javascript
 * react-icons
 * react-scripts
-* react hooks
+* Sanity
+* NextJS
+
 
 
 ## Visit Website
