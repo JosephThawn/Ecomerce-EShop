@@ -18,7 +18,7 @@
 
 
 ## Summary
-The latest Emoerce website
+The latest Ecomerce website
 ## Technologies
 
 ### Tools 
@@ -28,6 +28,7 @@ The latest Emoerce website
 * react-icons
 * react-scripts
 * Sanity
+* Stripe
 * NextJS
 
 
